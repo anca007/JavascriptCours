@@ -1,0 +1,11 @@
+{
+    "eau" : [
+        {"name" : "Leviator", "pa" : 150},
+        {"name" : "Tortank", "pa" : 2000}
+    ],
+
+    "feu" : {"name" : "Dracaufeu" , "pa" : 10000},
+
+    "pikachu" : "pika !"
+
+}
