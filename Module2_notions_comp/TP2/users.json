@@ -1,0 +1,8 @@
+{
+    "users" : [
+        {"nom" : "Finn", "age" : 12, "ville": "la cabane dans l'arbre"},
+        {"nom" : "Finn2", "age" : 122, "ville": "la cabane dans l'arbre2"},
+        {"nom" : "Finn3", "age" : 123, "ville": "la cabane dans l'arbre3"}
+    ]
+
+}
